@@ -8,7 +8,7 @@
 🔍 Always learning and building cool stuff
 📌 Interests: Web apps, mobile apps, and writing clean code
 
-📫 Reach me at: **[edo.nurcahyo25@gmail.com](mailto:edo.nurcahyo25@gmail.com)**
+📫 Reach me at: **[edonurcahyo25@gmail.com](mailto:edonurcahyo25@gmail.com)**
 
 ---
 
