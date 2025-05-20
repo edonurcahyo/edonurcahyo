@@ -1,14 +1,14 @@
 # 💫 About Me
 
-👋 Hi, I'm **Edo Nurcahyo**
-💻 Informatics Engineering student
-🌐 Web Developer | 💡 Tech Enthusiast | 🎮 Code & Create
+👋 Hi, I'm **Edo Nurcahyo**  
+💻 Informatics Engineering student  
+🌐 Web Developer | 💡 Tech Enthusiast | 🎮 Code & Create  
 
-🚀 Currently exploring: **Laravel**, **Android Development**, and **UI/UX**
-🔍 Always learning and building cool stuff
-📌 Interests: Web apps, mobile apps, and writing clean code
+🚀 Currently exploring: **Laravel**, **Android Development**, and **UI/UX**  
+🔍 Always learning and building cool stuff  
+📌 Interests: Web apps, mobile apps, and writing clean code  
 
-📫 Reach me at: **[edonurcahyo25@gmail.com](mailto:edonurcahyo25@gmail.com)**
+📫 Reach me at: **[edonurcahyo25@gmail.com](mailto:edonurcahyo25@gmail.com)**  
 
 ---
 
