@@ -87,6 +87,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Revyno/Revyno/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/edonurcahyo/edonurcahyo/output/snake.svg" alt="Snake animation" />
 
 ###
