@@ -33,7 +33,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge\&logo=bulma\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ### ☁️ Cloud & Databases
 
